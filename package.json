@@ -1,0 +1,16 @@
+{
+  "name": "README-MAKER",
+  "version": "1.0.0",
+  "description": "command line tool that writes a read-me",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^10.1.8"
+  }
+}
