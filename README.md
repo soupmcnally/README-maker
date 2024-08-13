@@ -1,15 +1,15 @@
-# THURBERBGER
+# Bob
 
 ## License
 
-This project is licensed under the terms of the none license. 
+This project is licensed under the terms of the MIT license. 
 
-
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+(https://opensource.org/licenses/MIT)
 
 
 ## Description
-It's a burger with thurr
+Bob is a guy
 
 ## Table of Contents
 
@@ -22,21 +22,21 @@ It's a burger with thurr
 
 
 ## Installation
-you put the thurr in the thurrrrburger
+Give bob a house
 
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
 ## Usage
-thurbugerongerberger
+Bob is a good guy, but he's old. Try not to work him too hard
 
 ## Contribution
-lol
+You can give bob a sandwhich
 
 ## Testing
-lol
+Grade bob on a curve.
 
 ## Questions
-* Github Repo: [https://github.com/lol]
+* Github Repo: [https://github.com/soupmcnally]
 * Contact: soup.mcnally@icloud.com
 
 
